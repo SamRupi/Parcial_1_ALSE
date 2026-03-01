@@ -75,4 +75,5 @@ int main() {
     cout << "Distancia minima: " << distanciaMinima << endl;
 
     return 0;
+
 }
